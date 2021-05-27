@@ -53,7 +53,7 @@ header {
 }
 
 .author {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 3vh;
 	font-weight: 500;
@@ -127,7 +127,7 @@ header {
 }
 
 .level-num {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 60px;
 	font-weight: 500;
@@ -136,7 +136,7 @@ header {
 }
 
 .user-info .name {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 33px;
 	font-weight: 500;
@@ -145,7 +145,7 @@ header {
 }
 
 .user-info .id {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 15px;
 	font-weight: 500;
@@ -255,7 +255,7 @@ header {
 	margin: 0 5px;
 	width: calc(100% - 20px);
 	height: 57px;
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 13px;
 	font-weight: 500;
@@ -271,7 +271,7 @@ header {
 .left.menu.box .container .top .dialog::before {
 	content: "VOICE";
 	background-color: rgba(255, 255, 255, .7);
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	font-size: 10px;
 	font-weight: 500;
 	color: #000;
@@ -321,7 +321,7 @@ header {
 }
 
 .left.menu.box .container .bottom .right .pos-1 .friends .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 25px;
 	font-weight: 900;
@@ -349,7 +349,7 @@ header {
 }
 
 .left.menu.box .container .bottom .right .pos-2 .information .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #323232;
 	font-size: 25px;
 	font-weight: 900;
@@ -422,7 +422,7 @@ header {
 
 .right.menu.box .container .pos-1 .top .time {
 	color: #fff;
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	font-size: 18px;
 	white-space: nowrap;
 	margin: 0 10px
@@ -511,7 +511,7 @@ header {
 
 .right.menu.box .container .pos-1 .bottom .status .item .amount {
 	color: #fff;
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	font-size: 33px;
 	white-space: nowrap;
 	margin: 0 10px
@@ -580,7 +580,7 @@ header {
 
 .right.menu.box .container .pos-2 .intellect .content .figure .value {
 	color: #333333;
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow', sans-serif;
 	font-size: 70px;
 	font-weight: 700;
 	text-align: right;
@@ -590,7 +590,7 @@ header {
 
 .right.menu.box .container .pos-2 .intellect .content .figure .total {
 	color: #fff;
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	font-size: 25px;
 	text-align: right;
 	margin: 15px 20px;
@@ -609,7 +609,8 @@ header {
 }
 
 .right.menu.box .container .pos-2 .intellect .content .battle .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: bold;
 	color: #323232;
 	font-size: 60px;
 	font-weight: 900;
@@ -617,7 +618,7 @@ header {
 }
 
 .right.menu.box .container .pos-2 .intellect .content .battle .current {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	background-color: #3c3c3c;
 	border-radius: 5px;
@@ -629,7 +630,7 @@ header {
 }
 
 .right.menu.box .container .pos-2 .intellect .content .battle .level {
-	font-family: 'Noto Sans SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #3c3c3c;
 	font-size: 20px;
 	font-weight: 500;
@@ -665,7 +666,7 @@ header {
 }
 
 .right.menu.box .container .pos-3 .team .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #323232;
 	font-size: 40px;
 	font-weight: 900;
@@ -694,7 +695,7 @@ header {
 }
 
 .right.menu.box .container .pos-3 .member .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #323232;
 	font-size: 40px;
 	font-weight: 900;
@@ -703,7 +704,7 @@ header {
 }
 
 .right.menu.box .container .pos-3 .member .desc {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #989898;
 	font-size: 20px;
 	font-weight: 500;
@@ -748,16 +749,18 @@ header {
 	background-size: auto 2000%;
 	position: absolute;
 	margin: 13px 0 0 136px;
-	opacity: .5;
+	opacity: .4;
 }
 
 .right.menu.box .container .pos-4 .shop .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
-	font-size: 40px;
+	font-size: 48px;
 	font-weight: 900;
 	white-space: nowrap;
-	margin: 40px 0 0 60px;
+	/* margin: 40px 0 0 60px; */
+	margin-top: 20px;
+	text-align: center;
 }
 
 .right.menu.box .container .pos-4 .gamble {
@@ -791,7 +794,7 @@ header {
 }
 
 .right.menu.box .container .pos-4 .gamble .top .text {
-	font-family: 'Noto Sans SC', sans-serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 20px;
 	font-weight: 500;
@@ -830,12 +833,14 @@ header {
 }
 
 .right.menu.box .container .pos-4 .gamble .bottom .left .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 30px;
 	font-weight: 900;
 	white-space: nowrap;
-	margin: 10px 0 0 20px;
+	/* margin: 10px 0 0 20px; */
+	margin-top: 10px;
+	text-align: center;
 }
 
 .right.menu.box .container .pos-4 .gamble .bottom .right {
@@ -855,12 +860,13 @@ header {
 }
 
 .right.menu.box .container .pos-4 .gamble .bottom .right .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 30px;
 	font-weight: 900;
 	white-space: nowrap;
-	margin: 10px 0 0 20px;
+	margin-top: 10px;
+	text-align: center;
 }
 
 .right.menu.box .container .pos-5 {
@@ -873,7 +879,7 @@ header {
 
 .right.menu.box .container .pos-5 .task {
 	background-color: #fff;
-	opacity: .9;
+	opacity: .95;
 	height: calc(100% - 20px);
 	width: 240px;
 	margin: 8px 0 0 80px;
@@ -896,13 +902,15 @@ header {
 	background-position: -1px -90px;
 	background-size: auto 1800%;
 	position: absolute;
-	margin: 13px 0 0 136px;
-	opacity: .5;
+	/* margin: 13px 0 0 136px; */
+	margin-top: 13px;
+	margin-left: 156px;
+	opacity: .4;
 	filter: invert(30%);
 }
 
 .right.menu.box .container .pos-5 .task .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #323232;
 	font-size: 40px;
 	font-weight: 900;
@@ -911,11 +919,15 @@ header {
 }
 
 .right.menu.box .container .pos-5 .infrastructure {
-	background-color: #ebeceb;
-	opacity: .9;
+	background-color: #fff;
+	opacity: .95;
 	height: calc(100% - 20px);
 	width: 240px;
 	margin: 8px 0 0 16px;
+	transition: 0.2s;
+}
+.right.menu.box .container .pos-5 .infrastructure:hover {
+	background-color: #ebeceb;
 }
 
 .right.menu.box .container .pos-5 .infrastructure .icon {
@@ -926,12 +938,12 @@ header {
 	background-size: auto 1700%;
 	position: absolute;
 	margin: 13px 0 0 136px;
-	opacity: .5;
+	opacity: .4;
 	filter: invert(30%);
 }
 
 .right.menu.box .container .pos-5 .infrastructure .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #323232;
 	font-size: 40px;
 	font-weight: 900;
@@ -969,7 +981,7 @@ header {
 }
 
 .right.menu.box .container .pos-5 .warehouse .text {
-	font-family: 'Noto Serif SC', serif;
+	font-family: 'Barlow Condensed', sans-serif;
 	color: #fff;
 	font-size: 30px;
 	font-weight: 900;
